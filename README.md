@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently looking for **a job as a fullstack web developer**
 
-- 🌱 I’m currently learning **Ruby on Rails and Javascript**
+- 🌱 I’m currently learning primarily **Ruby on Rails and Javascript** as well as **React**
 
-- 📫 How to reach me **stephane.baroux@gmail.com**
+- 📫 Reach me at **stephane.baroux@gmail.com**
 
-- ⚡ Fun fact **I am half-French, half-Portuguese but grew up in the UK.**
+- ⚡ Fun fact **I am half-French, half-Portuguese but grew up in the UK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
