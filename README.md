@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Stéphane</h1>
 <h3 align="center">A motivated, adaptable and passionate web developer from Paris</h3>
 
-- 🔭 I’m currently working on **a frontendMentors.co project to further develop my React knowledge**
+- 🔭 I am currently working for a French fintech startup called **Yavin** as their sole **frontend developper**.
 
-- 🌱 I’m currently learning primarily **Ruby on Rails and Javascript** as well as **React**. I intend to learn **Python** for backend development next.
+- 🌱 I'm currently working on a project which uses **NextJS** for front and **Python/Django** for the backend.
 
 - 📫 Reach me at **stephane.baroux@gmail.com**
 
-- ⚡ Fun fact **I am half-French, half-Portuguese but grew up in the UK**
+- ⚡ Fun fact I am half-**French**, half-**Portuguese** and grew up in the **UK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
